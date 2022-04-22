@@ -6,4 +6,7 @@
 - Urban: $19,356.33 in total fares, averaging $30.97 fare per rider, and $39.50 fare per driver
 - Suburban: $39,854.38 in total fares, averaging $24.53 fare per rider, and $16.57 fare per driver
 ### Results: The highest sum of fares comes out of the Suburban environments, however the fares per driver come in at last place at $16.57. Rual drivers are the most profitable at $55.49 
-## Sugestions 
+## Sugestions
+- Focusing on the Suburban market will result in the highest overall profit.
+- Encouraging and incentivising rual passengers will increase total fares at a higher rate than that of any other city type.
+- Leaning into suburban cities may be the adivisable due to the average fare per rider and oppertunities pertaining to tje total amount of rides 
